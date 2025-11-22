@@ -11,7 +11,7 @@ Whisper Pro Studio is a modern, dark-themed, high-performance desktop applicatio
 
 2 Install requirements: pip install -r requirements.txt
 
-3 Run the application: python main.py  or  python3 main.py
+3 Run the application: python main.py     or      python3 main.py
 
 📦 Download (For Users)
 You can download the ready-to-use application (macOS .app or Windows .exe) from the REALASE section.
