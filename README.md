@@ -81,7 +81,7 @@ python main.py
 
 📦 Download (For Users)
 
-You can download the ready-to-use application (macOS .app or Windows .exe) directly from the [şüpheli bağlantı kaldırıldı] section on the right.
+You can download the ready-to-use application (macOS .app or Windows .exe) directly from the REALASES section on the right.
 
 (Note: Don't forget to install the "Prerequisites" listed above before running the app!)
 
