@@ -1,0 +1,1 @@
+{"model": "large-v3", "lang": "tr - T\u00fcrk\u00e7e", "task": "transcribe", "device": "cpu", "format": "srt", "word_ts": true, "max_line": 2, "use_lines": false, "fp16": false, "out_dir": "/Users/mert/Desktop"}
